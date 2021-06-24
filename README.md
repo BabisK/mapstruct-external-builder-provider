@@ -1,0 +1,1 @@
+# mapstruct-external-builder-provider
